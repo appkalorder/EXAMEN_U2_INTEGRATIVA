@@ -1,0 +1,26 @@
+[
+  {
+    "nombre": "Ingeniería de Software",
+    "facultad": "FISEI",
+    "descripcion": "Desarrolla soluciones tecnológicas modernas.",
+    "imagen": "https://tse1.mm.bing.net/th/id/OIP.4gxZAatp_ZIpvtsn8bmkAAHaE8?rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "nombre": "Mecatrónica",
+    "facultad": "FIMAE",
+    "descripcion": "Fusiona electrónica, mecánica y sistemas de control.",
+    "imagen": "https://th.bing.com/th/id/R.73c7bfde442f2ba0e0c19dd77a230751?rik=J8Q0zUrohrObQQ&pid=ImgRaw&r=0"
+  },
+  {
+    "nombre": "Biotecnología",
+    "facultad": "FICA",
+    "descripcion": "Aplicaciones biológicas para industrias.",
+    "imagen": "https://th.bing.com/th/id/R.b98a2522424b9a29351ea2c407dbf3ad?rik=Mfb18pwN%2fJKVHw&pid=ImgRaw&r=0"
+  },
+  {
+    "nombre": "Petroquímica",
+    "facultad": "FICA",
+    "descripcion": "Transformación química de petróleo y gas.",
+    "imagen": "https://tse1.mm.bing.net/th/id/OIP.GEcwgR1cGVyueq_sUrsitgHaE8?rs=1&pid=ImgDetMain&o=7&rm=3"
+  }
+]
